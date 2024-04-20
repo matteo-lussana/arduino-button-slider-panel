@@ -8,7 +8,7 @@ with an Arduino board and [deej open-source project](https://github.com/omrihare
 + 8 Momentary Push Buttons
 + 3 Slide Potentiometers
 + Solder Kit and cables (or Dupot cables)
-+ (Optional) [3D printer](3D-printed-case)
++ (Optional) [3D printer](#3D-printed-case)
 ## Schematics
 <img src="./images/schematics.png" width="500">
 
